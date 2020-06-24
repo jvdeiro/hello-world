@@ -1,0 +1,74 @@
+<html>
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+	<head>
+		
+		<title>Página principal</title>
+
+	</head>
+
+
+	<body>
+
+		<table border="10" width="34%">
+
+		<tr>
+			<th>Código</th>
+			<th>Produto</th>
+			<th>Cor</th>
+			<th>Valores</th>
+		</tr>
+
+		<tr>
+			<td>001</td>
+			<td><img src="imagens/note.jpg" width="86">	Notebook i7 32GB RAM DDR4 2TB</td>
+			<td>Preto/Cinza</td>
+			<td>$1.000,00</td>
+		</tr>
+
+		<tr>
+			<td>002</td>
+			<td><img src="imagens/ps5.jpg" width="86">	Playstation 5 1TB + Dualshock 5</td>
+			<td>Full Black</td>
+			<td>$400,00</td>
+		</tr>
+
+		<tr>
+			<td>003</td>
+			<td><img src="imagens/iphone15.jpg" width="86">	iPhone 15 Pro 1TB</td>
+			<td>Cinza Espacial</td>
+			<td>$600,00</td>
+		</tr>
+
+		<tr>
+			<td rowspan="2">Cupons de desconto</td>
+			<td colspan="2">"PS5"</td>
+			<td>-$150,00</td>
+		</tr>
+
+		<tr>
+			<td colspan="2">"NOTEBARATO"</td>
+			<td>-$150,00</td>		
+		</tr>
+
+		<tr>
+			<td>DESCONTO total:</td>
+			<td></td>
+			<td></td>
+			<td>-$300,00</td>
+		</tr>
+
+		<tr>
+			<td><strong>TOTAL:</strong></td>
+			<td></td>
+			<td></td>
+			<td><strong>$1.700,00</strong></td>
+		</tr>
+		</table>	
+
+
+	</body>
+
+
+</html>
